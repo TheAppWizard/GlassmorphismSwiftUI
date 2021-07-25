@@ -7,3 +7,7 @@ It has many names depending on the company using it, so we wanted to create a co
 The effect is based on background blur with transparency, and uses stacked layers to show the depth and context of the interface.
 
 
+# Output / Result
+![Image of op]()
+
+
