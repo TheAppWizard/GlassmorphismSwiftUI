@@ -1,5 +1,7 @@
 # GlassmorphismSwiftUI
-Glassmorphism made with SwiftUI
+
+# Output / Result
+![Image of op](https://github.com/TheAppWizard/GlassmorphismSwiftUI/blob/main/glassop.png)
 
 # What is Glassmorphism?
 Glassmorphism is a unified name for the popular Frosted Glass aesthetic. 
@@ -7,7 +9,5 @@ It has many names depending on the company using it, so we wanted to create a co
 The effect is based on background blur with transparency, and uses stacked layers to show the depth and context of the interface.
 
 
-# Output / Result
-![Image of op]()
 
 
